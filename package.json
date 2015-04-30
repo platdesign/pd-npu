@@ -1,0 +1,15 @@
+{
+  "name": "pd-npu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "artnet": "0.0.2",
+    "es6-module-loader": "^0.16.6"
+  }
+}
